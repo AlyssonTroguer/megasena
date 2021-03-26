@@ -30,5 +30,5 @@ for j in range(0, len(lista_cartela)):
             cont = 1
     sleep(1)
 print('=' * 22)
-print(f'{"BOA SORTE FDP":^22}')
+print(f'{"BOA SORTE!":^22}')
 print('=' * 22)
